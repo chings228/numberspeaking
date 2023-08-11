@@ -11,6 +11,7 @@
 		4E0C40372A860E810060582E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0C40362A860E810060582E /* ContentView.swift */; };
 		4E0C40392A860E820060582E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E0C40382A860E820060582E /* Assets.xcassets */; };
 		4E0C403C2A860E820060582E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E0C403B2A860E820060582E /* Preview Assets.xcassets */; };
+		4E0C40432A8618E50060582E /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0C40422A8618E50060582E /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4E0C40362A860E810060582E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4E0C40382A860E820060582E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E0C403B2A860E820060582E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4E0C40422A8618E50060582E /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				4E0C40342A860E810060582E /* NewNumberSpeakingApp.swift */,
+				4E0C40422A8618E50060582E /* ViewModel.swift */,
 				4E0C40362A860E810060582E /* ContentView.swift */,
 				4E0C40382A860E820060582E /* Assets.xcassets */,
 				4E0C403A2A860E820060582E /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E0C40372A860E810060582E /* ContentView.swift in Sources */,
+				4E0C40432A8618E50060582E /* ViewModel.swift in Sources */,
 				4E0C40352A860E810060582E /* NewNumberSpeakingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
